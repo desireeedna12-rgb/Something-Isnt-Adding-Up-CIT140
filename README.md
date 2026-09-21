@@ -28,6 +28,8 @@ The Evidence folder contains the case records reviewed during the investigation,
 
 The evidence classifications distinguish between **facts, assumptions, and open questions** based on what each source directly supports.
 
+When a case document is provided as a **RAW** document, the RAW file is downloaded and saved in the Evidence folder so the original case material is preserved.
+
 ### Notes
 
 The Notes folder contains my investigation notes, including:
