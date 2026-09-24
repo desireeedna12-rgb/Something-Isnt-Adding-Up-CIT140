@@ -50,3 +50,26 @@ The Artifact folder contains the final **Week 1 Problem Brief PDF** submitted fo
 The investigation does not assume that `legacy_sync.exe` caused the entire incident. The available telemetry identifies it as a source label, but additional evidence is needed to determine the broader cause.
 
 The investigation also does not recommend a solution. Additional evidence gathering is needed before determining how the issue should be addressed.
+
+## Week 2 Business Case Recommendation
+
+Week 2 focuses on the Meridian Forge Business Case Recommendation.
+
+The Week 2 materials are located in the `Week02` folder.
+
+# CIT 140 Week 2
+
+## Meridian Forge Business Case Recommendation
+
+This folder contains my CIT 140 Week 2 Business Case Recommendation.
+
+### Files
+
+- Business Case Recommendation PDF
+- Business Case Recommendation JSON
+- Week 2 Repository Check screenshot
+- RAW source materials, when provided
+
+The PDF contains the completed Business Case Recommendation, and the JSON contains the portable report data.
+
+RAW files can be opened or downloaded from GitHub when needed.
