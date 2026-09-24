@@ -1,0 +1,129 @@
+{
+  "format": "command-nexus-weekly-report",
+  "schemaVersion": 1,
+  "courseId": "CIT140",
+  "week": 2,
+  "assignmentId": "CIT140-W02-BUSINESS-CASE",
+  "artifactType": "business-case-recommendation",
+  "caseId": "meridian-forge",
+  "reportId": "ed0058e1-f323-4936-9de3-4ad581be7097",
+  "revision": 2217,
+  "createdAt": "2026-09-23T23:12:54.873Z",
+  "exportedAt": "2026-09-23T23:59:53.179Z",
+  "learnerLabel": "Meridian Forge Week 2 Business Case",
+  "contentStatus": "complete-fields",
+  "sections": [
+    {
+      "id": "project",
+      "title": "Proposed project",
+      "value": "QA Control Review of the affected QA cell"
+    },
+    {
+      "id": "need",
+      "title": "Business need",
+      "value": "The business needs to improve the control and traceability of the affected QA cell. The review should clarify who owns command authorization, how retired tests are controlled, and how evidence is preserved. Staff spent 60 minutes on six recorded requests to locate and cross check records, but the source does not yet show how much time a future change would save. The review would give QA and Engineering a traceable record and help Operations decide what work may be needed later"
+    },
+    {
+      "id": "value",
+      "title": "Expected value and beneficiaries",
+      "value": "QA and Engineering would benefit from having a traceable record that can be used for further investigation. Operations would benefit from having a clear basis for requesting future work. The review would improve understanding of command authorization, retired test controls, and evidence preservation. It does not guarantee restored production or specific amount of time saved."
+    },
+    {
+      "id": "scopeIn",
+      "title": "Included work",
+      "value": "The review includes checking command-authorization ownership for the affected QA cell, reviewing the controls used to schedule and retire tests, documenting an evidence-preservation checklist, identifying gaps, and creating a report for later decisions. The deliverables are a command-ownership record, a scheduling/retirement control inventory, and an evidence-preservation checklist. (W02-S03)"
+    },
+    {
+      "id": "scopeOut",
+      "title": "Excluded work",
+      "value": "The review does not authorize restarting or operating MR-17, changing software or schedules, deleting or modifying original records, buying a replacement robot, selecting a vendor, or expanding the review to other cells. (W02-S03)"
+    },
+    {
+      "id": "technical",
+      "title": "Technical feasibility",
+      "value": "The review can use read-only record exports and the existing documentation tools. However, access to the required exports has been requested but is not confirmed yet. If access is denied, the scope will need to be revised or the review deferred. (W02-S04)"
+    },
+    {
+      "id": "operational",
+      "title": "Operational feasibility",
+      "value": "The review can use the existing QA and Engineering workflow without replacing the current system. QA and Engineering will need to participate in reviewing records and confirming the findings, while Operations will use the report for later decisions. Their availability should be confirmed before the work is scheduled. (W02-S03, W02-S04)"
+    },
+    {
+      "id": "resources",
+      "title": "Cost and resource feasibility",
+      "value": "The base estimate is $2,820 for 48 staff hours, which is $180 below the sponsor's $3,000 planning envelope. However, the planning range is $2,350–$3,525, so the upper estimate is $525 over the envelope. The estimate does not include equipment purchases, software licenses, or overtime. Because this is a planning estimate rather than a guaranteed cost, the sponsor should address the uncertainty before committing. (W02-S05)"
+    },
+    {
+      "id": "schedule",
+      "title": "Schedule feasibility",
+      "value": "The proposed review is planned for eight business days, which is within the sponsor's ten-business-day limit. The provisional staffing totals 48 staff hours: 24 analyst, 12 engineering, 8 QA, and 4 Operations hours. These are staff effort hours, not 48 hours of elapsed time. The schedule depends on the required exports arriving by day 3 and the review tasks being able to overlap. (W02-S04)"
+    },
+    {
+      "id": "constraints",
+      "title": "Known constraints",
+      "value": "The review has a proposed duration of eight business days and requires provisional staffing of 24 analyst hours, 12 engineering hours, 8 QA hours, and 4 Operations hours. The sponsor's planning limit is up to $3,000 of internal staff time over ten business days. Access to the required exports is not confirmed, and staff must continue their regular duties. A shift reassignment or late exports could create delays, but these are risks rather than established delays. The review must use read-only copies and preserve the original records. (W02-S01, W02-S04)"
+    },
+    {
+      "id": "risks",
+      "title": "Risks and assumptions",
+      "value": "The schedule assumes the required exports will arrive by day 3 and that the review tasks can overlap. Access to the exports still needs to be confirmed. A shift reassignment could remove the QA work window, and late exports could delay Engineering. The analyst and the appropriate team leads should confirm access and staff availability before the work begins. (W02-S04)"
+    },
+    {
+      "id": "success",
+      "title": "Success measures and evidence",
+      "value": "The sponsor can use six recorded retrieval requests as the baseline: 60 staff minutes total, or 10 minutes per request. After the review, future retrieval work can be measured against this baseline to see whether the process improves. Any savings should be treated as a target to verify, not as guaranteed result. The sponsor should also check whether records have an identified custodian and a clear link to the original source. "
+    },
+    {
+      "id": "recommendation",
+      "title": "Recommendation",
+      "value": "revise"
+    },
+    {
+      "id": "rationale",
+      "title": "Rationale and conditions",
+      "value": "I recommend revising the proposal before proceeding. The review has a clear scope and an eight-business-day plan, but access to the required exports has not been confirmed. The base estimate is $2,820, which is within the $3,000 planning limit, but the estimated range goes up to $3,525, which is above the limit. The review should also avoid claiming financial or time savings that have not been measured. The proposal can be revised by confirming access and staffing, addressing the cost uncertainty, and agreeing on how success will be measured. (W02-S04, W02-S05)"
+    },
+    {
+      "id": "nextStep",
+      "title": "Next authorization or information step",
+      "value": "Mara should confirm the required export access, staff availability, and whether the sponsor accepts the cost uncertainty. The sponsor should then decide whether the revised review fits the $3,000 planning envelope and authorize the next step."
+    }
+  ],
+  "sources": [
+    {
+      "id": "W02-S01",
+      "title": "Request for a bounded review",
+      "locator": "Week 2 decision packet · W02-S01"
+    },
+    {
+      "id": "W02-S02",
+      "title": "Evidence-retrieval workload",
+      "locator": "Week 2 decision packet · W02-S02"
+    },
+    {
+      "id": "W02-S03",
+      "title": "Proposed scope and current workflow",
+      "locator": "Week 2 decision packet · W02-S03"
+    },
+    {
+      "id": "W02-S04",
+      "title": "Capacity, access and operating limits",
+      "locator": "Week 2 decision packet · W02-S04"
+    },
+    {
+      "id": "W02-S05",
+      "title": "Estimate and success-measure sheet",
+      "locator": "Week 2 decision packet · W02-S05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "repository-check",
+      "filename": "Week02_Repository_Check.png",
+      "kind": "supporting-evidence",
+      "caption": "Required Week 2 repository screenshot; supply the actual file separately. This reference does not verify an upload.",
+      "sourceIds": []
+    }
+  ],
+  "relatedReportIds": []
+}
