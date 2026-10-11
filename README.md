@@ -73,3 +73,24 @@ This folder contains my CIT 140 Week 2 Business Case Recommendation.
 The PDF contains the completed Business Case Recommendation, and the JSON contains the portable report data.
 
 RAW files can be opened or downloaded from GitHub when needed.
+
+## CIT 140 Week 3
+
+### Meridian Forge Stakeholder Map
+
+This folder contains my CIT 140 Week 3 Stakeholder Map.
+
+The Week 3 materials are located in the `Week03_Who_Has_A_Stake` folder.
+
+**Files**
+
+- Stakeholder Map PDF
+- Book Form responses for prompts 32–33
+- Week 3 Repository Check screenshot
+- README.md
+
+The stakeholder map identifies key stakeholders, their roles and responsibilities, competing needs, missing information, and consultation plans.
+
+The book form contains responses to prompts 32–33 from *Attention First*, Section Seven, Designing Your Teams, Tools, and Human-AI World.
+
+The README describes the Week 3 assignment and its contents.
